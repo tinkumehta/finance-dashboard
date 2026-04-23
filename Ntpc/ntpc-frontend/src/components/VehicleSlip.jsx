@@ -8,7 +8,7 @@ export default function VehicleSlip({ data }) {
 
       {/* Header */}
       <div className="text-center mb-4">
-        <h2 className="font-bold">NTPC Limited</h2>
+        <h2 className="font-bold m-50">NTPC Limited</h2>
         <p>Chatti Bariatu Coal Mining Project</p>
         <p>(Human Resource Department)</p>
         <h3 className="font-bold mt-2">VEHICLE REQUISITION SLIP</h3>
